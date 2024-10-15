@@ -35,4 +35,6 @@ function myName(numbs = {}){
 
 
 
-const object = myName({akib, engineer});
+// const object = myName({akib, engineer});
+
+
